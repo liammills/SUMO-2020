@@ -1,4 +1,5 @@
 # Engagement+
-## No kid left behind.
+Motto: No kid left behind.
 
+## Description
 Built on ML models taught by Tensorflow, and manipulated using faceapi.js.
